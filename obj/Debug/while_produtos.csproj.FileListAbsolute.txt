@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\while_produtos\bin\Debug\while_produtos.exe.config
+C:\Users\Usuario\source\repos\while_produtos\bin\Debug\while_produtos.exe
+C:\Users\Usuario\source\repos\while_produtos\bin\Debug\while_produtos.pdb
+C:\Users\Usuario\source\repos\while_produtos\obj\Debug\while_produtos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\while_produtos\obj\Debug\while_produtos.exe
+C:\Users\Usuario\source\repos\while_produtos\obj\Debug\while_produtos.pdb
